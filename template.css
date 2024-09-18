@@ -1,0 +1,26 @@
+<style>
+        #el2{
+            color: aliceblue;
+            background-color: black;
+            border-radius: 50px;
+            padding: 10px 30px;
+            margin: 30px 5px;
+            width:fit-content;
+            }
+        .el1{
+            padding: 20px 20px;
+            margin:  50px 50px ;
+            border-radius: 3px;
+            display:inline-block;
+            width:40%;
+            height:50%;
+        }
+        .el3{
+            padding: 20px 20px;
+            margin:  45px 45px ;
+            border-radius: 3px;
+            display:inline-block;
+            width:16%;
+            height:20%;
+        }
+    </style>
